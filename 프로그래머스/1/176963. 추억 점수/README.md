@@ -1,10 +1,10 @@
 # [level 1] 추억 점수 - 176963 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/176963) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/176963?language=javascript) 
 
 ### 성능 요약
 
-메모리: 10.7 MB, 시간: 2.40 ms
+메모리: 34 MB, 시간: 0.84 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 03월 03일 21:38:28
+2025년 03월 04일 00:28:27
 
 ### 문제 설명
 
